@@ -11,7 +11,7 @@ Este repositorio contiene:
 
 - Archivo PruebaPrediccion.py: Código en Python utilizado para llevar a cabo pruebas de distintos modelos e hiperparámetros, contribuyendo a la elección del modelo final.
   
-- Archivo Prediccion_XGBoost.py: Código en Python que presenta el proceso y el modelo final utilizado para realizar predicciones en Kaggle.
+- Archivo Prediccion_XGBoost.py: Código en Python que presenta el proceso y el modelo final utilizado para realizar la predicción en Kaggle.
   
 - Archivo PDF de Presentación: Un documento que resume de manera clara y visual los hallazgos más relevantes y las conclusiones obtenidas durante el análisis y la predicción.
 
