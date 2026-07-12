@@ -1,17 +1,17 @@
-# Competencia Kaggle - Airbnb
+# Kaggle Competition - Airbnb
 
-Este repositorio presenta un análisis exploratorio y predictivo de la base de la datos de alojamientos de Airbnb realizado por Sofía González del Solar en el marco del segundo examen de la materia "Análisis Predictivo". 
-Este repositorio contiene:
+This repository presents an exploratory and predictive analysis of an Airbnb listings dataset, carried out by Sofía González del Solar as part of the second exam for the course "Predictive Analysis".
 
-- Archivo base_train.csv: Contiene la base de datos de entrenamiento utilizada para desarrollar y ajustar el modelo.
+This repository contains:
 
-- Archivo EDA_airbnb.py : Código en Python que presenta el análisis exploratorio de datos, proporcionando insights detallados sobre la naturaleza de la base de datos.
+- File base_train.csv: Contains the training dataset used to develop and tune the model.
+
+- File EDA_airbnb.py: Python code presenting the exploratory data analysis, providing detailed insights into the nature of the dataset.
   
-- Enlace al Dashboard en PowerBI: Tablero interactivo que permite visualizar los datos de manera interactiva, con el objetivo de lograr un mayor entendimiento de los datos. 
+- Power BI Dashboard Link: An interactive dashboard that allows users to visualize the data interactively, with the goal of gaining a deeper understanding of the dataset.
 
-- Archivo PruebaPrediccion.py: Código en Python utilizado para llevar a cabo pruebas de distintos modelos e hiperparámetros, contribuyendo a la elección del modelo final.
+- File PruebaPrediccion.py: Python code used to test different models and hyperparameters, contributing to the selection of the final model.
   
-- Archivo Prediccion_XGBoost.py: Código en Python que presenta el proceso y el modelo final utilizado para realizar la predicción en Kaggle.
+- File Prediccion_XGBoost.py: Python code presenting the process and final model used to generate the Kaggle prediction.
   
-- Archivo PDF de Presentación: Un documento que resume de manera clara y visual los hallazgos más relevantes y las conclusiones obtenidas durante el análisis y la predicción.
-
+- Presentation PDF File: A document that clearly and visually summarizes the most relevant findings and conclusions obtained throughout the analysis and prediction process.
